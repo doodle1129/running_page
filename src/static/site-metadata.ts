@@ -10,14 +10,14 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'YUHANG的跑步主页',
-  siteUrl: 'https://cn.bing.com/',
+  siteTitle: 'Running Page',
+  siteUrl: 'https://doodle1129.github.io/running_page/',
   logo: 'https://cdsassets.apple.com/live/7WUAS350/images/nav-icons/content-nav-watch-workout-running-icon.png',
   description: 'Personal site and blog',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://cn.bing.com/',
+      url: 'https://doodle1129.github.io/running_page/',
     },
     {
       name: 'About',
