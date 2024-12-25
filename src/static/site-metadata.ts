@@ -16,8 +16,8 @@ const data: ISiteMetadataResult = {
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://doodle1129.github.io/running_page/',
+      name: 'Workouts Page',
+      url: 'https://doodle1129.github.io/workouts_page/',
     },
     {
       name: 'About',
