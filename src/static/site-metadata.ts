@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
   siteUrl: 'https://doodle1129.github.io/running_page/',
-  logo: 'https://cdsassets.apple.com/live/7WUAS350/images/nav-icons/content-nav-watch-workout-running-icon.png',
+  logo: 'https://avatars.githubusercontent.com/u/189682565?s=400&u=ea676e2a2dd59ee5a1f28ea5d9a1900ddc3c3727&v=4',
   description: 'Personal site and blog',
   navLinks: [
     {
