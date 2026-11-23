@@ -13,7 +13,7 @@ mapbox_token: ''
 # ── 外观 ─────────────────────────────────────────────────────────────────────
 
 # 头像 URL（支持本地路径或远程图片链接）
-avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU'
+avatar: 'https://avatars.githubusercontent.com/u/189682565?s=400&u=ea676e2a2dd59ee5a1f28ea5d9a1900ddc3c3727&v=4'
 
 # 默认语言：zh（中文）| en（英文）
 locale: zh
@@ -31,13 +31,13 @@ theme_preset: dashboard
 
 goals:
   all:
-    yearly: 2000
-    monthly: 150
-    weekly: 35
+    yearly: 1000
+    monthly: 100
+    weekly: 25
     unit: distance
 
   Run:
-    yearly: 2000
-    monthly: 150
-    weekly: 35
+    yearly: 1000
+    monthly: 100
+    weekly: 25
     unit: distance
